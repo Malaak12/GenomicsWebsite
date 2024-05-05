@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../genomics-proteomics-website App/index.html"
+		},
+		{
+			"path": "../genomics-proteomics-website App/styles.css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html"
+	}
+}
